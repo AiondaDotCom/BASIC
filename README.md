@@ -1,2 +1,2 @@
-# Flow
-A modern low-code programming language for building intelligent apps with native support for databases and generative AI.
+# BASIC
+BASIC — a modern low-code language to build intelligent, data-driven, AI-powered applications with clarity and simplicity.
