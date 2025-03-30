@@ -1,6 +1,6 @@
 # Aionda BASIC
 
-**BASIC+** is a modern low-code programming language inspired by the clarity of classic BASIC, reimagined for the age of web apps, databases, and generative AI.
+**BASIC** is a modern low-code programming language inspired by the clarity of classic BASIC, reimagined for the age of web apps, databases, and generative AI.
 
 It enables developers and non-developers to build forms, logic, data flows, and AI-powered features with simple, readable instructions — without needing to worry about technical complexity like SQL, HTTP, or backend setup.
 
